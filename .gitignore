@@ -1,0 +1,5 @@
+backend/.wwebjs_auth/
+node_modules/
+backend/.wwebjs_auth/
+node_modules/
+.env
