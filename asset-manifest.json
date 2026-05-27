@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Whatsapp-Status-Studio/static/css/main.975c36ba.css",
+    "main.js": "/Whatsapp-Status-Studio/static/js/main.ca51fa03.js",
+    "index.html": "/Whatsapp-Status-Studio/index.html",
+    "main.975c36ba.css.map": "/Whatsapp-Status-Studio/static/css/main.975c36ba.css.map",
+    "main.ca51fa03.js.map": "/Whatsapp-Status-Studio/static/js/main.ca51fa03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975c36ba.css",
+    "static/js/main.ca51fa03.js"
+  ]
+}
